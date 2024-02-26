@@ -14,9 +14,13 @@ Here are some of the projects undertaken, representing the skills gained in the 
 - Description: Customer segmentation for marketing strategy optimization.
 - Technologies: Python, k-means, PCA, StandardScaler, TensorFlow.
 
-3. Sales Department (currently in progress)
+3. Sales Department 
 - Description: Developing predictive models to forecast sales trends, including holidays.
 - Technologies: Python, Facebook Prophet.
+
+4. Medical Department (in progress)
+- Description: Developing an AI model for classification of lung images in Normal, Covid-19, Bacterial Pneumonia and Viral Pneumonia.
+- Technologies: Python, Tensorflow, Opencv.
 
 
 ## Skills Developed
